@@ -1,0 +1,7 @@
+access_key                    = "AKIAIOSFODNN7EXAMPLE"
+secret_key                    = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+region                        = "us-west-2"
+stage                         = "dev"
+iam_role_name                 = "demo-bucket-replication"
+source_bucket_name            = "demotf-source-bucket"
+destination_bucket_name       = "demotf-destination-bucket"
